@@ -9,5 +9,5 @@ checkk("lata");
 let checkkk= function(name){
     console.log("take my name", name)
 }
-checkkk("lataaa");
+checkkk("lataaaaaa");
 
