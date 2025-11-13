@@ -6,3 +6,7 @@ let checkk= function(name){
     console.log("take my name", name)
 }
 checkk("lata");
+let checkkk= function(name){
+    console.log("take my name", name)
+}
+checkkk("lata");
