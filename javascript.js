@@ -6,7 +6,7 @@ let checkk= function(name){
     console.log("take my name", name)
 }
 checkk("lata");
-let checkkkkk= function(){
+let lata= function(name){
     console.log("take my name", name)
 }
 checkkk("lataaaaaa");
